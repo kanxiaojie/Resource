@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="793bbb25-1166-485e-8336-b377c2f08785" name="Default" comment="" />
+    <ignored path="untitled1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="importData.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/importDatas/importData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="351" column="0" selection-start-line="351" selection-start-column="0" selection-end-line="351" selection-end-column="0" />
+              <folding>
+                <marker date="1476429683684" expanded="true" signature="335:354" placeholder="select * fro... users" />
+                <marker date="1476429683684" expanded="true" signature="559:578" placeholder="select * fro... users" />
+                <marker date="1476429683684" expanded="true" signature="952:975" placeholder="select * fro... resources" />
+                <marker date="1476429683684" expanded="true" signature="2166:2434" placeholder="insert into resources... " />
+                <marker date="1476429683684" expanded="true" signature="2731:2757" placeholder="select * fro... exam_results" />
+                <marker date="1476429683684" expanded="true" signature="3810:4022" placeholder="insert into exam_results... " />
+                <marker date="1476429683684" expanded="true" signature="4327:4354" placeholder="select * fro... login_records" />
+                <marker date="1476429683684" expanded="true" signature="5360:5556" placeholder="insert into login_records... " />
+                <marker date="1476429683684" expanded="true" signature="5866:5894" placeholder="select * fro... course_records" />
+                <marker date="1476429683684" expanded="true" signature="7396:7762" placeholder="insert into course_records... " />
+                <marker date="1476429683684" expanded="true" signature="8073:8101" placeholder="select * fro... login_messages" />
+                <marker date="1476429683684" expanded="true" signature="9002:9171" placeholder="insert into login_messages... " />
+                <marker date="1476429683684" expanded="true" signature="9478:9504" placeholder="select * fro... course_spans" />
+                <marker date="1476429683684" expanded="true" signature="10446:10634" placeholder="insert into course_spans... " />
+                <marker date="1476429683684" expanded="true" signature="10923:10942" placeholder="select * fro... ranks" />
+                <marker date="1476429683684" expanded="true" signature="11741:11899" placeholder="insert into ranks... " />
+                <marker date="1476429683684" expanded="true" signature="12178:12199" placeholder="select * fro... records" />
+                <marker date="1476429683684" expanded="true" signature="13130:13325" placeholder="insert into records... " />
+                <marker date="1476429683684" expanded="true" signature="13605:13624" placeholder="select * fro... exams" />
+                <marker date="1476429683684" expanded="true" signature="14947:15304" placeholder="insert into exams... " />
+                <marker date="1476429683684" expanded="true" signature="15593:15619" placeholder="select * fro... course_wares" />
+                <marker date="1476429683684" expanded="true" signature="16683:16908" placeholder="insert into course_wares... " />
+                <marker date="1476429683684" expanded="true" signature="17207:17231" placeholder="select * fro... study_logs" />
+                <marker date="1476429683684" expanded="true" signature="18349:18614" placeholder="insert into study_logs... " />
+                <marker date="1476429683684" expanded="true" signature="18904:18925" placeholder="select * fro... courses" />
+                <marker date="1476429683684" expanded="true" signature="20821:21373" placeholder="insert into courses... " />
+                <marker date="1476429683684" expanded="true" signature="21664:21689" placeholder="select * fro... import_logs" />
+                <marker date="1476429683684" expanded="true" signature="22731:22948" placeholder="insert into import_logs... " />
+                <marker date="1476429683684" expanded="true" signature="23253:23281" placeholder="select * fro... question_banks" />
+                <marker date="1476429683684" expanded="true" signature="24236:24415" placeholder="insert into question_banks... " />
+                <marker date="1476429683684" expanded="true" signature="24723:24749" placeholder="select * fro... exam_records" />
+                <marker date="1476429683684" expanded="true" signature="25823:26058" placeholder="insert into exam_records... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="importData1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/importDatas/importData1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32229966">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+              <folding>
+                <marker date="1476429030326" expanded="true" signature="367:389" placeholder="select * fro... catalogs" />
+                <marker date="1476429030326" expanded="true" signature="990:1130" placeholder="insert into catalogs... " />
+                <marker date="1476429030326" expanded="true" signature="1322:1350" placeholder="select * fro... course_manages" />
+                <marker date="1476429030326" expanded="true" signature="2084:2234" placeholder="insert into course_manages... " />
+                <marker date="1476429030326" expanded="true" signature="2417:2448" placeholder="select * fro... exam_combinations" />
+                <marker date="1476429030326" expanded="true" signature="3161:3344" placeholder="insert into exam_combinations... " />
+                <marker date="1476429030326" expanded="true" signature="3536:3568" placeholder="select * fro... exam_distributions" />
+                <marker date="1476429030326" expanded="true" signature="4251:4426" placeholder="insert into exam_combinations... " />
+                <marker date="1476429030326" expanded="true" signature="4607:4633" placeholder="select * fro... exam_manages" />
+                <marker date="1476429030326" expanded="true" signature="5202:5350" placeholder="insert into exam_manages... " />
+                <marker date="1476429030326" expanded="true" signature="5515:5539" placeholder="select * fro... post_areas" />
+                <marker date="1476429030326" expanded="true" signature="6067:6173" placeholder="insert into post_areas... " />
+                <marker date="1476429030326" expanded="true" signature="6358:6381" placeholder="select * fro... questions" />
+                <marker date="1476429030326" expanded="true" signature="7042:7238" placeholder="insert into questions... " />
+                <marker date="1476429030326" expanded="true" signature="7419:7454" placeholder="select * fro... question_bank_manages" />
+                <marker date="1476429030326" expanded="true" signature="8113:8270" placeholder="insert into question_bank_manages... " />
+                <marker date="1476429030326" expanded="true" signature="8465:8495" placeholder="select * fro... question_results" />
+                <marker date="1476429030326" expanded="true" signature="9302:9528" placeholder="insert into question_results... " />
+                <marker date="1476429030326" expanded="true" signature="9713:9743" placeholder="select * fro... question_selects" />
+                <marker date="1476429030326" expanded="true" signature="10400:10569" placeholder="insert into question_selects... " />
+                <marker date="1476429030326" expanded="true" signature="10768:10805" placeholder="select * fro... question_select_results" />
+                <marker date="1476429030326" expanded="true" signature="11486:11647" placeholder="insert into question_select_results... " />
+                <marker date="1476429030326" expanded="true" signature="11842:11870" placeholder="select * fro... resource_areas" />
+                <marker date="1476429030326" expanded="true" signature="12434:12544" placeholder="insert into resource_areas... " />
+                <marker date="1476429030326" expanded="true" signature="12751:12781" placeholder="select * fro... resource_manages" />
+                <marker date="1476429030326" expanded="true" signature="13390:13542" placeholder="insert into resource_manages... " />
+                <marker date="1476429030326" expanded="true" signature="13717:13742" placeholder="select * fro... send_limits" />
+                <marker date="1476429030326" expanded="true" signature="14559:14860" placeholder="insert into send_limits... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file_get_content.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_get_content.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding>
+                <element signature="e#6#22#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css3/positioning/Angular.js" />
+        <option value="$PROJECT_DIR$/css3/positioning/example.blade.html" />
+        <option value="$PROJECT_DIR$/php/array_to_object.php" />
+        <option value="$PROJECT_DIR$/css3/positioning/myUser.js" />
+        <option value="$PROJECT_DIR$/css3/positioning/angular_animate.js" />
+        <option value="$PROJECT_DIR$/css3/positioning/angular-route.js" />
+        <option value="$PROJECT_DIR$/css3/positioning/position.html" />
+        <option value="$PROJECT_DIR$/css3/positioning/cssClassAndStyle.html" />
+        <option value="$PROJECT_DIR$/css3/positioning/hello.html" />
+        <option value="$PROJECT_DIR$/css3/positioning/example.php" />
+        <option value="$PROJECT_DIR$/css3/positioning/test.php" />
+        <option value="$PROJECT_DIR$/css3/positioning/high.js" />
+        <option value="$PROJECT_DIR$/css3/positioning/hh.xml" />
+        <option value="$PROJECT_DIR$/css3/positioning/hh.php" />
+        <option value="$PROJECT_DIR$/css3/positioning/demo.php" />
+        <option value="$PROJECT_DIR$/php/pdf.php" />
+        <option value="$PROJECT_DIR$/php/css.php" />
+        <option value="$PROJECT_DIR$/php/test.php" />
+        <option value="$PROJECT_DIR$/Jquery/demo01.html" />
+        <option value="$PROJECT_DIR$/php/host.php" />
+        <option value="$PROJECT_DIR$/php/e.php" />
+        <option value="$PROJECT_DIR$/importDatas/importData1.php" />
+        <option value="$PROJECT_DIR$/importDatas/importData.php" />
+        <option value="$PROJECT_DIR$/file_get_content.php" />
+        <option value="$PROJECT_DIR$/css3/input.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/project/ksback" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/php" />
+      <recent name="$PROJECT_DIR$/Jquery" />
+      <recent name="$PROJECT_DIR$/css3/positioning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.input.php">
+    <configuration default="false" name="importData.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/importDatas/importData.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="e.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php/e.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="importData1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/importDatas/importData1.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="input.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/css3/input.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="file_get_content.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/file_get_content.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.importData.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.e.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.importData1.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.input.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.file_get_content.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.input.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.file_get_content.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.importData1.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.importData.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.e.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="793bbb25-1166-485e-8336-b377c2f08785" name="Default" comment="" />
+      <created>1467595802578</created>
+      <option name="number" value="Default" />
+      <updated>1467595802578</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10581718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843652" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37460652" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css3/positioning/cssClassAndStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/cssClassAndStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/cssClassAndStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/cssClassAndStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/cssClassAndStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/array_to_object.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/array_to_object.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/array_to_object.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apps.bdimg.com_libs_angular.js_1.4.6_angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24104235">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34668335">
+          <caret line="565" column="9" selection-start-line="565" selection-start-column="9" selection-end-line="565" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/myUser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apps.bdimg.com_libs_angular.js_1.4.6_angular-animate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2757764">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apps.bdimg.com_libs_angular-route_1.3.13_angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9196526">
+          <caret line="989" column="0" selection-start-line="989" selection-start-column="0" selection-end-line="989" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4411764">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SimpleXML.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43066517">
+          <caret line="346" column="24" selection-start-line="346" selection-start-column="24" selection-end-line="346" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/high.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2844734">
+          <caret line="1809" column="19" selection-start-line="1809" selection-start-column="19" selection-end-line="1809" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/cssClassAndStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/Angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52302027">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/angular_animate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.86372006">
+          <caret line="3862" column="0" selection-start-line="3862" selection-start-column="0" selection-end-line="3862" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jquery/jquery-2.2.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/hh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04171364">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.705882">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/positioning/example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/array_to_object.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jquery/demo01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/host.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0882353">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/e.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.352941">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25028184">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/importDatas/importData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="351" column="0" selection-start-line="351" selection-start-column="0" selection-end-line="351" selection-end-column="0" />
+          <folding>
+            <marker date="1476429683684" expanded="true" signature="335:354" placeholder="select * fro... users" />
+            <marker date="1476429683684" expanded="true" signature="559:578" placeholder="select * fro... users" />
+            <marker date="1476429683684" expanded="true" signature="952:975" placeholder="select * fro... resources" />
+            <marker date="1476429683684" expanded="true" signature="2166:2434" placeholder="insert into resources... " />
+            <marker date="1476429683684" expanded="true" signature="2731:2757" placeholder="select * fro... exam_results" />
+            <marker date="1476429683684" expanded="true" signature="3810:4022" placeholder="insert into exam_results... " />
+            <marker date="1476429683684" expanded="true" signature="4327:4354" placeholder="select * fro... login_records" />
+            <marker date="1476429683684" expanded="true" signature="5360:5556" placeholder="insert into login_records... " />
+            <marker date="1476429683684" expanded="true" signature="5866:5894" placeholder="select * fro... course_records" />
+            <marker date="1476429683684" expanded="true" signature="7396:7762" placeholder="insert into course_records... " />
+            <marker date="1476429683684" expanded="true" signature="8073:8101" placeholder="select * fro... login_messages" />
+            <marker date="1476429683684" expanded="true" signature="9002:9171" placeholder="insert into login_messages... " />
+            <marker date="1476429683684" expanded="true" signature="9478:9504" placeholder="select * fro... course_spans" />
+            <marker date="1476429683684" expanded="true" signature="10446:10634" placeholder="insert into course_spans... " />
+            <marker date="1476429683684" expanded="true" signature="10923:10942" placeholder="select * fro... ranks" />
+            <marker date="1476429683684" expanded="true" signature="11741:11899" placeholder="insert into ranks... " />
+            <marker date="1476429683684" expanded="true" signature="12178:12199" placeholder="select * fro... records" />
+            <marker date="1476429683684" expanded="true" signature="13130:13325" placeholder="insert into records... " />
+            <marker date="1476429683684" expanded="true" signature="13605:13624" placeholder="select * fro... exams" />
+            <marker date="1476429683684" expanded="true" signature="14947:15304" placeholder="insert into exams... " />
+            <marker date="1476429683684" expanded="true" signature="15593:15619" placeholder="select * fro... course_wares" />
+            <marker date="1476429683684" expanded="true" signature="16683:16908" placeholder="insert into course_wares... " />
+            <marker date="1476429683684" expanded="true" signature="17207:17231" placeholder="select * fro... study_logs" />
+            <marker date="1476429683684" expanded="true" signature="18349:18614" placeholder="insert into study_logs... " />
+            <marker date="1476429683684" expanded="true" signature="18904:18925" placeholder="select * fro... courses" />
+            <marker date="1476429683684" expanded="true" signature="20821:21373" placeholder="insert into courses... " />
+            <marker date="1476429683684" expanded="true" signature="21664:21689" placeholder="select * fro... import_logs" />
+            <marker date="1476429683684" expanded="true" signature="22731:22948" placeholder="insert into import_logs... " />
+            <marker date="1476429683684" expanded="true" signature="23253:23281" placeholder="select * fro... question_banks" />
+            <marker date="1476429683684" expanded="true" signature="24236:24415" placeholder="insert into question_banks... " />
+            <marker date="1476429683684" expanded="true" signature="24723:24749" placeholder="select * fro... exam_records" />
+            <marker date="1476429683684" expanded="true" signature="25823:26058" placeholder="insert into exam_records... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_get_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#22#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3/input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/importDatas/importData1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32229966">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <marker date="1476429030326" expanded="true" signature="367:389" placeholder="select * fro... catalogs" />
+            <marker date="1476429030326" expanded="true" signature="990:1130" placeholder="insert into catalogs... " />
+            <marker date="1476429030326" expanded="true" signature="1322:1350" placeholder="select * fro... course_manages" />
+            <marker date="1476429030326" expanded="true" signature="2084:2234" placeholder="insert into course_manages... " />
+            <marker date="1476429030326" expanded="true" signature="2417:2448" placeholder="select * fro... exam_combinations" />
+            <marker date="1476429030326" expanded="true" signature="3161:3344" placeholder="insert into exam_combinations... " />
+            <marker date="1476429030326" expanded="true" signature="3536:3568" placeholder="select * fro... exam_distributions" />
+            <marker date="1476429030326" expanded="true" signature="4251:4426" placeholder="insert into exam_combinations... " />
+            <marker date="1476429030326" expanded="true" signature="4607:4633" placeholder="select * fro... exam_manages" />
+            <marker date="1476429030326" expanded="true" signature="5202:5350" placeholder="insert into exam_manages... " />
+            <marker date="1476429030326" expanded="true" signature="5515:5539" placeholder="select * fro... post_areas" />
+            <marker date="1476429030326" expanded="true" signature="6067:6173" placeholder="insert into post_areas... " />
+            <marker date="1476429030326" expanded="true" signature="6358:6381" placeholder="select * fro... questions" />
+            <marker date="1476429030326" expanded="true" signature="7042:7238" placeholder="insert into questions... " />
+            <marker date="1476429030326" expanded="true" signature="7419:7454" placeholder="select * fro... question_bank_manages" />
+            <marker date="1476429030326" expanded="true" signature="8113:8270" placeholder="insert into question_bank_manages... " />
+            <marker date="1476429030326" expanded="true" signature="8465:8495" placeholder="select * fro... question_results" />
+            <marker date="1476429030326" expanded="true" signature="9302:9528" placeholder="insert into question_results... " />
+            <marker date="1476429030326" expanded="true" signature="9713:9743" placeholder="select * fro... question_selects" />
+            <marker date="1476429030326" expanded="true" signature="10400:10569" placeholder="insert into question_selects... " />
+            <marker date="1476429030326" expanded="true" signature="10768:10805" placeholder="select * fro... question_select_results" />
+            <marker date="1476429030326" expanded="true" signature="11486:11647" placeholder="insert into question_select_results... " />
+            <marker date="1476429030326" expanded="true" signature="11842:11870" placeholder="select * fro... resource_areas" />
+            <marker date="1476429030326" expanded="true" signature="12434:12544" placeholder="insert into resource_areas... " />
+            <marker date="1476429030326" expanded="true" signature="12751:12781" placeholder="select * fro... resource_manages" />
+            <marker date="1476429030326" expanded="true" signature="13390:13542" placeholder="insert into resource_manages... " />
+            <marker date="1476429030326" expanded="true" signature="13717:13742" placeholder="select * fro... send_limits" />
+            <marker date="1476429030326" expanded="true" signature="14559:14860" placeholder="insert into send_limits... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
